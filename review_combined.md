@@ -21,7 +21,7 @@ They can be replaced by a real LLM API.
 
 Files content:
 
---- C:\Users\HP\Downloads\ai-scaffolder\mon-app\src\main.js ---
+--- C:\Users\HP\Downloads\ai-scaffolder\mon-app\src\combined.js ---
 
 
 
